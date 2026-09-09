@@ -1,7 +1,9 @@
-﻿kryterium,domyslna_waga,PVC,TPO,EPDM,podstawa_oceny,uwagi
-łatwość wykonania połączeń,3,brak danych,brak danych,brak danych,dokumentacja systemowa,zależna od produktu i technologii
-kompatybilność z podłożem,5,brak danych,brak danych,brak danych,dokumentacja systemowa,weryfikować dla konkretnego układu warstw
-odporność UV,4,brak danych,brak danych,brak danych,dokumentacja techniczna lub badania,nie stosować oceny ogólnej bez źródła
-odporność chemiczna,3,brak danych,brak danych,brak danych,dokumentacja techniczna lub badania,szczególnie istotne dla obiektów przemysłowych
-odporność na przebicie,4,brak danych,brak danych,brak danych,dokumentacja techniczna lub badania,zależna m.in. od grubości i konstrukcji membrany
-naprawialność,4,brak danych,brak danych,brak danych,instrukcje producenta,oceniać dla konkretnego systemu
+﻿kryterium,PVC,TPO,EPDM,podstawa,zrodla,status_porownania
+technologia wykonywania połączeń,zgrzewanie gorącym powietrzem,zgrzewanie termiczne / gorącym powietrzem,"systemowe łączenie zakładów, m.in. taśmami",dokumentacja producentów,ZR-001; ZR-003; ZR-004; ZR-006,potwierdzone jakościowo
+możliwość mechanicznego mocowania,tak - dla analizowanych systemów,występuje w systemach TPO; potwierdzić wariant projektowy,tak - dla analizowanych systemów,dokumentacja systemowa,ZR-003; ZR-004; ZR-007,potwierdzone na poziomie systemów reprezentatywnych
+możliwość systemu klejonego,występuje dla wybranych systemów PVC,występuje dla wybranych systemów TPO,tak - występuje w analizowanych systemach EPDM,dokumentacja systemowa,ZR-001; ZR-004; ZR-007,zależne od konkretnego produktu
+odporność na promieniowanie UV,potwierdzona dla analizowanych membran przeznaczonych do ekspozycji,do uzupełnienia kartą techniczną konkretnego wariantu,do oceny na podstawie konkretnego produktu i badań starzeniowych,karty produktów / badania,ZR-001; ZR-002; ZR-006,nie tworzyć rankingu rodzin materiałowych
+kompatybilność z podłożem i innymi materiałami,występują jawne ograniczenia kompatybilności; możliwe warstwy separacyjne,do weryfikacji dla konkretnego systemu,"zależna od systemowych klejów, primerów, taśm i podłoża",instrukcje producentów,ZR-001; ZR-002; ZR-006,kryterium projektowo-systemowe
+format i szerokość arkuszy,zależne od produktu,zależne od produktu,dostępne bardzo szerokie arkusze w analizowanych systemach,karty produktów,ZR-001; ZR-005; ZR-007,możliwe porównanie wyłącznie konkretnych produktów
+odporność na przebicie / uderzenie,dostępne mierzalne parametry dla konkretnych produktów,wymaga danych z konkretnej karty produktu,wymaga danych z konkretnej karty produktu i typu membrany,badania produktowe,ZR-001; ZR-002; ZR-004; ZR-005,nieporównywalne bez wspólnej normy i konfiguracji badania
+trwałość,dla Protan SE dostępna aprobata dokumentująca co najmniej 50 lat w zakresie objętym aprobatą,brak porównywalnego źródła w obecnym zestawie,"dostępne dane o wieloletnim zastosowaniu, ale bez jednolitego wyniku porównawczego w obecnym zestawie",aprobata / dokumentacja producenta,ZR-003; ZR-007,nie tworzyć rankingu bez ujednoliconej metody
