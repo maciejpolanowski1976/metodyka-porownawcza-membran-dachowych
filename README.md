@@ -36,3 +36,5 @@ Repozytorium nie jest projektem wykonawczym, specyfikacją inwestycji, aprobatą
 
 Informację o cytowaniu zawiera `CITATION.cff`. Materiały udostępniono na warunkach Creative Commons Uznanie autorstwa 4.0 Międzynarodowe; zob. `LICENSE`.
 
+Autor: Maciej Polanowski  
+ORCID: https://orcid.org/0009-0005-5494-8731

@@ -5,7 +5,9 @@ version: 1.0.0
 date-released: 2026-09-10
 type: dataset
 authors:
-  - name: "Autor projektu"
+  - given-names: "Maciej"
+    family-names: "Polanowski"
+    orcid: "https://orcid.org/0009-0005-5494-8731"
 abstract: "Metodyka porównywania jednowarstwowych membran dachowych PVC-P, TPO/FPO i EPDM z rejestrem źródeł, zasadami porównywalności i przykładowymi danymi produktowymi."
 keywords:
   - "membrany dachowe"
@@ -14,4 +16,3 @@ keywords:
   - "TPO/FPO"
   - "EPDM"
 license: CC-BY-4.0
-
