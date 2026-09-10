@@ -5,7 +5,7 @@ type: dataset
 authors:
   - family-names: "Polanowski"
     given-names: "Maciej"
-version: "0.1.0"
-date-released: "2026-09-09"
+version: "0.3.0"
+date-released: "2026-09-10"
 license: "CC-BY-4.0"
-abstract: "Metodyka porównawcza jednowarstwowych systemów membranowych PVC, TPO i EPDM stosowanych na dachach płaskich, obejmująca kryteria techniczne, jakościową macierz decyzyjną, scenariusze zastosowań oraz ograniczenia metody."
+abstract: "Metodyka porównawcza systemów membranowych PVC/PVC-P, TPO/FPO i EPDM stosowanych na dachach płaskich, obejmująca kryteria techniczne, rejestr źródeł, zasady porównywalności, scenariusze zastosowań i pierwsze porównanie konkretnych produktów."

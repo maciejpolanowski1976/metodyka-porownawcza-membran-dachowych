@@ -1,18 +1,5 @@
 # Porównanie systemów
 
-PVC, TPO i EPDM nie powinny być porównywane wyłącznie na podstawie pojedynczego parametru.
+PVC/PVC-P, TPO/FPO i EPDM należy porównywać w kontekście konkretnego obiektu. Istotne są konstrukcja dachu, podłoże, izolacja, geometria, detale, warunki środowiskowe, serwisowalność i wymagania wykonawcze.
 
-Rzetelne porównanie wymaga oceny:
-- konstrukcji dachu,
-- warstw termoizolacji,
-- rodzaju podłoża,
-- sposobu mocowania,
-- geometrii,
-- liczby detali,
-- oddziaływań eksploatacyjnych,
-- warunków środowiskowych,
-- serwisowalności,
-- dostępności komponentów,
-- wymagań wykonawczych.
-
-Najpierw należy zdefiniować wymagania obiektu, a dopiero potem porównać systemy.
+Nie istnieje jeden system najlepszy dla wszystkich zastosowań.

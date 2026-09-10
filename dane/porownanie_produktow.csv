@@ -1,15 +1,12 @@
 ﻿parametr,jednostka_lub_metoda,Sarnafil_S_327_12_L_PVC,Sure_Weld_TPO_60_mil,Sure_Seal_EPDM_60_mil,porownywalnosc,uwagi,zrodla
-rodzina materiałowa,-,PVC,TPO,EPDM,pełna jakościowo,Trzy różne rodziny membran jednowarstwowych.,P-001; P-002; P-003
-grubość nominalna,mm,"1,2","1,52","1,5",wysoka,Wartości deklarowane dla konkretnych wariantów produktów.,P-001; P-002; P-003
-zbrojenie,opis,poliestrowe,wewnętrzne zbrojenie tkaniną/scrimem,"brak zbrojenia, Type I",wysoka jakościowo,Konstrukcja materiałowa wpływa na zachowanie mechaniczne; parametrów wytrzymałości nie należy interpretować bez uwzględnienia zbrojenia.,P-001; P-002; P-003
+rodzina materiałowa,-,PVC,TPO,EPDM,pełna jakościowo,Trzy różne rodziny membran.,P-001; P-002; P-003
+grubość nominalna,mm,"1,2","1,52","1,5",wysoka,Wartości deklarowane dla konkretnych wariantów.,P-001; P-002; P-003
+zbrojenie,opis,poliestrowe,wewnętrzne zbrojenie,"brak zbrojenia, Type I",wysoka jakościowo,Konstrukcja wpływa na parametry mechaniczne.,P-001; P-002; P-003
 sposób wykonywania zakładów,opis,zgrzewanie gorącym powietrzem,zgrzewanie termiczne,taśma/primer zgodnie z systemem,wysoka jakościowo,Różnica technologiczna potwierdzona dokumentacją.,P-001; P-002; P-003
-system mechanicznie mocowany,tak/nie,tak,tak,występuje w systemach EPDM,średnio-wysoka,"Dotyczy systemów przewidzianych przez producentów, nie każdej konfiguracji.",P-001; P-002; P-003
-system klejony,tak/nie,zależnie od wariantu systemowego,tak,tak,średnia,Wymaga odniesienia do konkretnej specyfikacji systemowej.,P-001; P-002; P-003
-wytrzymałość na rozciąganie,metoda producenta / norma,≥1000 N/50 mm md i cmd,brak zgodnego wyniku EN w użytym źródle,brak zgodnego wyniku EN w użytym źródle,niska,Nie porównywać liczbowo wyników opartych na różnych normach i geometrii próbek.,P-001; P-002; P-003
-wydłużenie,% / metoda producenta,≥12% md i cmd,15% wg ASTM D751 w publicznych specyfikacjach systemowych,brak porównywalnego wyniku w użytym źródle,niska,Bez identycznej metody wynik nie tworzy rankingu elastyczności.,P-001; P-002; P-003
-odporność na rozdzieranie,metoda producenta / norma,≥200 N md i cmd,55 lbf minimum wg ASTM D751 w publicznych specyfikacjach,brak porównywalnego wyniku w użytym źródle,niska,Nie wolno uznawać wyników za bezpośrednio porównywalne bez wspólnej procedury badawczej.,P-001; P-002; P-003
-stabilność wymiarowa,%,"≤0,3% md; ≤0,2% cmd",brak zgodnego wyniku EN w użytym źródle,brak zgodnego wyniku EN w użytym źródle,niska,Porównanie pozostawiono otwarte do czasu pozyskania dokumentacji z tą samą metodą.,P-001; P-002; P-003
-zginanie w niskiej temperaturze,°C,≤ -25°C wg EN 495-5,brak zgodnego wyniku EN w użytym źródle,brak zgodnego wyniku EN w użytym źródle,niska,Brak podstaw do rankingu między rodzinami.,P-001; P-002; P-003
-odporność UV / starzenie,opis/metoda,"Pass >5000 h, grade 0 wg EN 1297",produkt spełnia wymagania TPO/ASTM; brak zgodnego wyniku EN w użytym źródle,EPDM spełnia ASTM D4637; dostępne są dane o weathering w dokumentacji systemowej,niska do średniej,"Metody badań różnią się, dlatego nie przyznano punktów.",P-001; P-002; P-003
-wodoszczelność,metoda,Pass wg EN 1928,brak zgodnego wyniku EN w użytym źródle,brak zgodnego wyniku EN w użytym źródle,niska,Brak wspólnej metody w użytym zestawie dokumentów.,P-001; P-002; P-003
-kompatybilność z bitumem,opis,brak kompatybilności w bezpośrednim kontakcie; wymagana separacja,zależna od systemu,zależna od systemu i materiałów pomocniczych,średnia jakościowo,"Kryterium systemowe, nie materiałowe.",P-001; P-002; P-003
+wytrzymałość na rozciąganie,norma/metoda,≥1000 N/50 mm md i cmd,brak zgodnego wyniku EN w użytym źródle,brak zgodnego wyniku EN w użytym źródle,niska,Nie zestawiać liczbowo różnych metod.,P-001; P-002; P-003
+wydłużenie,% / metoda,≥12% md i cmd,15% wg ASTM D751 w publicznych specyfikacjach,brak porównywalnego wyniku,niska,Brak wspólnej metody.,P-001; P-002; P-003
+odporność na rozdzieranie,norma/metoda,≥200 N md i cmd,55 lbf minimum wg ASTM D751,brak porównywalnego wyniku,niska,Nie tworzyć rankingu.,P-001; P-002; P-003
+stabilność wymiarowa,%,"≤0,3% md; ≤0,2% cmd",brak zgodnego wyniku EN,brak zgodnego wyniku EN,niska,Porównanie otwarte.,P-001; P-002; P-003
+zginanie w niskiej temperaturze,°C,≤ -25°C wg EN 495-5,brak zgodnego wyniku EN,brak zgodnego wyniku EN,niska,Brak podstaw do rankingu.,P-001; P-002; P-003
+odporność UV / starzenie,opis/metoda,"Pass >5000 h, grade 0 wg EN 1297",wyniki wg ASTM / wymaga zgodnej metody,wyniki systemowe / wymaga zgodnej metody,niska do średniej,Metody różne.,P-001; P-002; P-003
+wodoszczelność,metoda,Pass wg EN 1928,brak zgodnego wyniku EN,brak zgodnego wyniku EN,niska,Brak wspólnej metody w użytym zestawie.,P-001; P-002; P-003

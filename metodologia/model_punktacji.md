@@ -1,13 +1,11 @@
 # Model punktacji
 
-Model służy do porządkowania decyzji, a nie automatycznego wyboru systemu.
+Model punktowy może być stosowany wyłącznie wtedy, gdy dane są wystarczająco porównywalne.
 
 Wynik ważony:
 `W = suma(waga_kryterium × ocena_systemu)`
 
-Zasady:
-1. Nie porównywać wyników różnych scenariuszy bez zachowania tych samych wag.
-2. Nie przypisywać wysokiej wagi kryteriom nieistotnym dla danego obiektu.
-3. Każda ocena powinna mieć uzasadnienie.
-4. W przypadku braku danych stosować oznaczenie „brak danych”.
-5. Dane producentów powinny zawierać konkretne źródło i datę pozyskania.
+Jeżeli nie ma wspólnej podstawy badawczej, zamiast punktacji stosuje się status:
+- brak danych,
+- niska porównywalność,
+- brak porównywalności.

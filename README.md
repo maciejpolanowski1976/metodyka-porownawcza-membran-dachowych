@@ -2,31 +2,66 @@
 
 ## Cel projektu
 
-Projekt przedstawia uporządkowaną metodykę porównawczą trzech grup jednowarstwowych systemów membranowych stosowanych na dachach płaskich: PVC, TPO i EPDM.
+Projekt przedstawia uporządkowaną metodykę porównawczą systemów membranowych stosowanych na dachach płaskich, ze szczególnym uwzględnieniem PVC/PVC-P, TPO/FPO i EPDM.
 
-Celem opracowania jest stworzenie transparentnych ram oceny pozwalających porównywać systemy pod kątem warunków zastosowania, wymagań wykonawczych, eksploatacji oraz ograniczeń technicznych.
+Celem opracowania jest stworzenie przejrzystych ram oceny umożliwiających:
+- porównanie cech technicznych systemów,
+- analizę zgodności danych pochodzących z różnych źródeł,
+- rozróżnienie cech rodziny materiałowej od cech konkretnego produktu,
+- ocenę porównywalności parametrów deklarowanych według różnych norm,
+- dokumentowanie podstaw źródłowych użytych w analizie.
 
-Projekt nie stanowi instrukcji projektowej ani rekomendacji dla konkretnego obiektu. Ostateczny dobór systemu powinien uwzględniać dokumentację projektową, wymagania producenta, obowiązujące normy, lokalne warunki techniczne i ocenę projektanta.
+Projekt nie stanowi instrukcji projektowej ani rekomendacji dla konkretnego obiektu. Ostateczny dobór rozwiązania powinien uwzględniać dokumentację projektową, aktualną dokumentację producenta, obowiązujące normy i wymagania właściwe dla danego obiektu.
 
-## Zakres
+## Zakres projektu
 
 Repozytorium zawiera:
-- zestaw kategorii porównawczych dla PVC, TPO i EPDM,
+- zestaw kategorii porównawczych dla PVC/PVC-P, TPO/FPO i EPDM,
+- rejestr źródeł technicznych,
 - jakościową macierz decyzyjną,
-- przykładowe scenariusze zastosowań,
-- opis metodologii,
-- model punktacji,
-- ograniczenia metody,
-- osobne noty techniczne dla PVC, TPO i EPDM,
-- przykłady analizy dla wybranych typów obiektów.
+- zasady porównywalności danych,
+- metodę porównania konkretnych produktów,
+- pierwsze porównanie reprezentatywnych produktów,
+- scenariusze zastosowań dla wybranych typów obiektów,
+- dokumentację metodologiczną i ograniczenia analizy.
 
-## Charakter danych
+## Aktualny status
 
-Obecna wersja projektu ma charakter metodyczny i porównawczy. Oceny w macierzy mają charakter jakościowy i służą do demonstracji sposobu porównania systemów.
+Aktualna wersja: `v0.3.0`
 
-Nie należy ich traktować jako zamiennika dla:
-- kart technicznych producentów,
-- deklaracji właściwości użytkowych,
-- dokumentacji projektowej,
-- wymagań systemowych,
-- obowiązujących norm i przepisów.
+Na tym etapie projekt obejmuje zarówno porównanie rodzin materiałowych, jak i pierwsze porównanie konkretnych produktów:
+- Sarnafil S 327-12 L - PVC,
+- Sure-Weld TPO Reinforced Membrane - TPO,
+- Sure-Seal EPDM 60 mil - EPDM.
+
+Nie utworzono rankingu produktów. Parametry oparte na różnych metodach badawczych są oznaczane jako nieporównywalne lub porównywalne w ograniczonym zakresie.
+
+## Struktura
+
+```text
+dane/
+dokumentacja/
+metodologia/
+przyklady/
+README.md
+CITATION.cff
+LICENSE
+CHANGELOG.md
+SPIS_TRESCI.md
+```
+
+## Zasady
+
+1. Parametr konkretnego produktu nie jest automatycznie przypisywany całej rodzinie materiałowej.
+2. Dane liczbowe są porównywane tylko wtedy, gdy metody badawcze i warunki oceny są zgodne.
+3. Brak danych nie jest zastępowany szacunkiem.
+4. Dokumentacja producenta jest traktowana jako źródło pierwotne dla deklarowanych właściwości danego produktu.
+5. Wnioski są ograniczane do zakresu dostępnych źródeł.
+
+## Cytowanie
+
+Informacje do cytowania znajdują się w pliku `CITATION.cff`.
+
+## Licencja
+
+Projekt udostępniono na licencji CC BY 4.0.

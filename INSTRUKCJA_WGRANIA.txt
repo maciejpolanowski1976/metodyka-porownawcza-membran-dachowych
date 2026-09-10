@@ -1,0 +1,20 @@
+JEDNORAZOWE WGRANIE KOMPLETNEGO REPOZYTORIUM
+
+1. Rozpakuj tę paczkę.
+2. Na GitHub wejdź do repozytorium:
+   metodyka-porownawcza-membran-dachowych
+3. Add file -> Upload files.
+4. Wgraj CAŁĄ zawartość tego folderu.
+5. GitHub podmieni istniejące pliki i doda brakujące.
+6. Commit message:
+   Uporządkowanie kompletnego repozytorium - v0.3.0
+7. Commit directly to main.
+
+UWAGA:
+W repozytorium mogą pozostać stare pliki:
+- CHANGELOG_DODATEK.md
+- CHANGELOG_DODATEK_V0_3.md
+
+Po wgraniu kompletnej paczki można je usunąć, ponieważ ich treść została scalona do głównego CHANGELOG.md.
+
+Nie twórz jeszcze Release.

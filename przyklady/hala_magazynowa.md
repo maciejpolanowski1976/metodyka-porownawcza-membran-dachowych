@@ -1,14 +1,12 @@
 # Scenariusz: hala magazynowa
 
-Przykładowy scenariusz obejmuje dużą halę magazynową z rozległą połacią dachu płaskiego.
-
-Kryteria o podwyższonym znaczeniu:
+Istotne kryteria:
 - ciągłość hydroizolacji,
-- sprawność wykonania dużych powierzchni,
+- logistyka montażu,
 - powtarzalność detali,
 - możliwość inspekcji,
-- możliwość lokalnych napraw,
+- naprawialność,
 - kompatybilność z termoizolacją,
-- rozwiązanie odwodnienia.
+- odwodnienie.
 
 Nie wskazuje się z góry preferowanego materiału.
