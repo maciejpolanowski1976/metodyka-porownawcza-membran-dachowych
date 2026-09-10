@@ -1,5 +1,7 @@
 # Metodyka porównawcza membran dachowych
 
+[![DOI](https://zenodo.org/badge/1363253224.svg)](https://doi.org/10.5281/zenodo.22691659)
+
 Wersja 1.0.0
 
 Repozytorium zawiera neutralną metodykę porównywania jednowarstwowych membran dachowych PVC-P, TPO/FPO i EPDM. Porównanie dotyczy właściwości zadeklarowanych dla konkretnych wyrobów, sposobów montażu, zgodności metod badawczych i warunków zastosowania.
