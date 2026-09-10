@@ -1,23 +1,29 @@
 # Historia zmian
 
-## v0.3.0 - 2026-09-10
-- dodano pierwsze porównanie konkretnych produktów PVC, TPO i EPDM,
-- dodano osobny rejestr źródeł dla porównania produktów,
-- dodano metodę klasyfikacji porównywalności,
-- dodano dokument interpretujący wyniki porównania,
-- zachowano zasadę braku rankingu przy niezgodnych metodach badawczych.
+Wszystkie istotne zmiany projektu są dokumentowane w tym pliku.
 
-## v0.2.0 - 2026-09-10
-- rozszerzono rejestr źródeł technicznych,
-- dodano kolejnych producentów i dokumenty techniczne,
-- przebudowano macierz decyzyjną pod kątem porównywalności danych,
-- dodano zasady porównywalności,
-- dodano dokument dotyczący norm i metod badawczych.
+## [1.0.0] - 2026-09-10
 
-## v0.1.0 - 2026-09-09
-- utworzono strukturę projektu,
-- dodano metodologię,
-- dodano model punktacji,
-- dodano jakościową macierz decyzyjną,
-- dodano scenariusze zastosowań,
-- dodano rejestr źródeł.
+Pierwsze kompletne wydanie archiwalne.
+
+- scalono zakres wersji roboczych 0.1–0.3;
+- uporządkowano polską strukturę katalogów i nazwy zwykłych plików;
+- ujednolicono zasady dokumentowania źródeł i porównywalności wyników;
+- dodano rejestr rodzin membran, scenariuszy i kryteriów decyzyjnych;
+- dodano przykład porównania trzech konkretnych wyrobów z zachowaniem metod badawczych;
+- usunięto punktację i rankingi bez udokumentowanej podstawy;
+- usunięto pliki robocze, instrukcje uploadu i dodatki historii zmian;
+- zaktualizowano metadane cytowania i licencję.
+
+## [0.3.0] - wersja robocza
+
+- dodano porównanie konkretnych produktów i źródła danych produktowych.
+
+## [0.2.0] - wersja robocza
+
+- rozszerzono rejestr źródeł i zasady porównywalności.
+
+## [0.1.0] - wersja robocza
+
+- utworzono podstawową strukturę, metodologię i szablony danych.
+

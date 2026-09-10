@@ -1,11 +1,12 @@
 # Podstawa źródłowa
 
-Priorytet źródeł:
-1. normy i dokumenty normalizacyjne,
-2. niezależne aprobaty i oceny techniczne,
-3. deklaracje właściwości użytkowych,
-4. karty techniczne produktów,
-5. instrukcje montażowe,
-6. dokumentacja uzupełniająca.
+Pierwszeństwo mają dokumenty odnoszące się bezpośrednio do identyfikowanego wyrobu:
 
-Materiały marketingowe nie są podstawą ocen liczbowych.
+1. deklaracje właściwości użytkowych i oznakowanie wymagane na danym rynku;
+2. oceny i aprobaty techniczne;
+3. karty techniczne producenta;
+4. instrukcje projektowania, montażu i konserwacji systemu;
+5. raporty badań i deklaracje środowiskowe w granicach ich zakresu.
+
+Opis handlowy może potwierdzać przeznaczenie lub dostępne warianty, ale nie zastępuje dokumentu deklarującego właściwości. Rejestr źródeł zawiera adres i datę dostępu. Plików producentów nie kopiuje się do repozytorium.
+

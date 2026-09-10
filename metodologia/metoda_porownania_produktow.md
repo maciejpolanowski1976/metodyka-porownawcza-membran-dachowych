@@ -1,11 +1,8 @@
 # Metoda porównania produktów
 
-Produkt może zostać włączony do tabeli, jeśli ma publiczną dokumentację techniczną, jest jednoznacznie zidentyfikowany i dokumentacja wskazuje metody badań lub normy.
+Porównanie przykładowe obejmuje trzy wyroby o różnych konstrukcjach. Dla każdego zapisano wariant, grubość, zbrojenie, sposób wykonywania zakładów, wartość, metodę badawczą i źródło.
 
-Poziomy porównywalności:
-- wysoka,
-- średnia,
-- niska,
-- brak porównywalności.
+Wartości zachowano w formie deklarowanej przez producenta. Nie przeliczano wytrzymałości z N/50 mm, kN, MPa ani kN/m, ponieważ same przeliczenia jednostek nie zapewniają równoważności badań. Nie porównywano także bezpośrednio wydłużenia membrany niezbrojonej z wydłużeniem zbrojenia.
 
-Przeliczenie jednostek nie oznacza automatycznie zgodności metod badawczych.
+Przed użyciem danych należy sprawdzić, czy karta pozostaje aktualna i odpowiada produktowi dostępnemu na rynku inwestycji.
+

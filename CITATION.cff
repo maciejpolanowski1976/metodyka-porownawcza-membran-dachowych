@@ -1,11 +1,17 @@
 cff-version: 1.2.0
-message: "Jeśli wykorzystujesz ten projekt, zacytuj go zgodnie z poniższymi danymi."
-title: "Metodyka porównawcza systemów membranowych PVC, TPO i EPDM dla dachów płaskich"
+message: "Jeżeli wykorzystujesz ten materiał, zacytuj go zgodnie z poniższymi metadanymi."
+title: "Metodyka porównawcza membran dachowych"
+version: 1.0.0
+date-released: 2026-09-10
 type: dataset
 authors:
-  - family-names: "Polanowski"
-    given-names: "Maciej"
-version: "0.3.0"
-date-released: "2026-09-10"
-license: "CC-BY-4.0"
-abstract: "Metodyka porównawcza systemów membranowych PVC/PVC-P, TPO/FPO i EPDM stosowanych na dachach płaskich, obejmująca kryteria techniczne, rejestr źródeł, zasady porównywalności, scenariusze zastosowań i pierwsze porównanie konkretnych produktów."
+  - name: "Autor projektu"
+abstract: "Metodyka porównywania jednowarstwowych membran dachowych PVC-P, TPO/FPO i EPDM z rejestrem źródeł, zasadami porównywalności i przykładowymi danymi produktowymi."
+keywords:
+  - "membrany dachowe"
+  - "dachy płaskie"
+  - "PVC-P"
+  - "TPO/FPO"
+  - "EPDM"
+license: CC-BY-4.0
+

@@ -1,5 +1,6 @@
 # Porównanie systemów
 
-PVC/PVC-P, TPO/FPO i EPDM należy porównywać w kontekście konkretnego obiektu. Istotne są konstrukcja dachu, podłoże, izolacja, geometria, detale, warunki środowiskowe, serwisowalność i wymagania wykonawcze.
+Porównanie rodzin materiałowych ma sens przede wszystkim na poziomie funkcji systemu: zgodności z podłożem, sposobu mocowania, wykonywania i kontroli zakładów, rozwiązań detali, ograniczeń montażowych, możliwości naprawy oraz dostępności dokumentacji dla wymaganego układu.
 
-Nie istnieje jeden system najlepszy dla wszystkich zastosowań.
+Parametry materiałowe porównuje się na poziomie konkretnych wyrobów. Wybór wymaga najpierw ustalenia warunków brzegowych inwestycji. Sama rodzina materiałowa nie stanowi wystarczającej podstawy decyzji.
+

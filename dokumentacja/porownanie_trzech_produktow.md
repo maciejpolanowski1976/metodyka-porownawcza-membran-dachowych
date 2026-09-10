@@ -1,10 +1,8 @@
-# Porównanie trzech reprezentatywnych produktów
+# Porównanie trzech produktów
 
-Porównano:
-- Sarnafil S 327-12 L - PVC,
-- Sure-Weld TPO Reinforced Membrane - TPO,
-- Sure-Seal EPDM 60 mil - EPDM.
+Zestaw obejmuje Sarnafil S 327-12 L, Carlisle Sure-Weld TPO Reinforced Membrane 60 mil i Carlisle Sure-Seal EPDM SAT 60 mil.
 
-Najważniejszym ograniczeniem są różne systemy normalizacyjne i metody badawcze. Dokumentacja europejska często korzysta z EN, natomiast dokumentacja północnoamerykańska często bazuje na ASTM.
+Można bezpośrednio opisać ich rodzinę materiałową, konstrukcję, nominalną grubość oraz sposób wykonywania zakładów. Większości wartości mechanicznych nie można uszeregować, ponieważ dokumenty stosują różne metody i jednostki, a EPDM w tym zestawie jest niezbrojony, podczas gdy pozostałe wyroby są zbrojone.
 
-W związku z tym najbardziej rzetelnym wynikiem obecnej wersji jest tabela porównywalności, a nie ranking.
+Wniosek z przykładu nie brzmi, który produkt jest najlepszy. Wniosek brzmi, że rzetelne porównanie ilościowe wymaga wcześniejszego zbudowania wspólnego zbioru metod i warunków badania.
+

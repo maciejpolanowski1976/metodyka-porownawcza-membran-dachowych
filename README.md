@@ -1,67 +1,38 @@
-# Metodyka porównawcza systemów membranowych PVC, TPO i EPDM dla dachów płaskich
+# Metodyka porównawcza membran dachowych
 
-## Cel projektu
+Wersja 1.0.0
 
-Projekt przedstawia uporządkowaną metodykę porównawczą systemów membranowych stosowanych na dachach płaskich, ze szczególnym uwzględnieniem PVC/PVC-P, TPO/FPO i EPDM.
+Repozytorium zawiera neutralną metodykę porównywania jednowarstwowych membran dachowych PVC-P, TPO/FPO i EPDM. Porównanie dotyczy właściwości zadeklarowanych dla konkretnych wyrobów, sposobów montażu, zgodności metod badawczych i warunków zastosowania.
 
-Celem opracowania jest stworzenie przejrzystych ram oceny umożliwiających:
-- porównanie cech technicznych systemów,
-- analizę zgodności danych pochodzących z różnych źródeł,
-- rozróżnienie cech rodziny materiałowej od cech konkretnego produktu,
-- ocenę porównywalności parametrów deklarowanych według różnych norm,
-- dokumentowanie podstaw źródłowych użytych w analizie.
+Projekt nie wskazuje uniwersalnie najlepszego materiału. Wyniku badania wykonanego inną metodą, w innej jednostce albo dla innej konstrukcji wyrobu nie przelicza się bez udokumentowanej podstawy. Brak danych jest jawnie oznaczany.
 
-Projekt nie stanowi instrukcji projektowej ani rekomendacji dla konkretnego obiektu. Ostateczny dobór rozwiązania powinien uwzględniać dokumentację projektową, aktualną dokumentację producenta, obowiązujące normy i wymagania właściwe dla danego obiektu.
+## Zawartość
 
-## Zakres projektu
+- `dane/` - rejestr źródeł, charakterystyki systemów, scenariusze i dane produktowe;
+- `metodologia/` - reguły kwalifikowania, porównywania i interpretacji danych;
+- `dokumentacja/` - opis rodzin materiałowych oraz analiza zakresu porównania;
+- `przyklady/` - przykłady zastosowania procedury bez rekomendacji materiałowej.
 
-Repozytorium zawiera:
-- zestaw kategorii porównawczych dla PVC/PVC-P, TPO/FPO i EPDM,
-- rejestr źródeł technicznych,
-- jakościową macierz decyzyjną,
-- zasady porównywalności danych,
-- metodę porównania konkretnych produktów,
-- pierwsze porównanie reprezentatywnych produktów,
-- scenariusze zastosowań dla wybranych typów obiektów,
-- dokumentację metodologiczną i ograniczenia analizy.
+Pełny wykaz plików znajduje się w [SPIS_TRESCI.md](SPIS_TRESCI.md).
 
-## Aktualny status
+## Sposób użycia
 
-Aktualna wersja: `v0.3.0`
+1. Zdefiniuj wymagania konkretnego dachu i zestaw porównywanych wyrobów.
+2. Zbierz aktualne karty techniczne, deklaracje właściwości użytkowych, aprobaty i instrukcje systemowe.
+3. Sprawdź zgodność norm, metod, jednostek, grubości, zbrojenia i warunków badania.
+4. Wprowadź wyłącznie wartości możliwe do prześledzenia do źródła.
+5. Oznacz wyniki nieporównywalne; nie zastępuj braków oceną ekspercką bez opisanej podstawy.
+6. Ocenę końcową wykonaj dla kompletnego układu dachowego i warunków konkretnej inwestycji.
 
-Na tym etapie projekt obejmuje zarówno porównanie rodzin materiałowych, jak i pierwsze porównanie konkretnych produktów:
-- Sarnafil S 327-12 L - PVC,
-- Sure-Weld TPO Reinforced Membrane - TPO,
-- Sure-Seal EPDM 60 mil - EPDM.
+## Zakres danych produktowych
 
-Nie utworzono rankingu produktów. Parametry oparte na różnych metodach badawczych są oznaczane jako nieporównywalne lub porównywalne w ograniczonym zakresie.
+Plik `dane/porownanie_produktow.csv` pokazuje trzy przykłady dokumentacji: Sarnafil S 327-12 L (PVC-P), Carlisle Sure-Weld TPO Reinforced Membrane 60 mil oraz Carlisle Sure-Seal EPDM SAT 60 mil. Dane liczbowe zachowują metody badawcze podane przez producentów. Nie są podstawą rankingu między rodzinami materiałowymi.
 
-## Struktura
+## Ograniczenia
 
-```text
-dane/
-dokumentacja/
-metodologia/
-przyklady/
-README.md
-CITATION.cff
-LICENSE
-CHANGELOG.md
-SPIS_TRESCI.md
-```
+Repozytorium nie jest projektem wykonawczym, specyfikacją inwestycji, aprobatą systemu ani instrukcją montażu. Nie zastępuje oceny projektanta, obliczeń ssania wiatru, weryfikacji ochrony przeciwpożarowej, zgodności chemicznej ani wymagań producenta.
 
-## Zasady
+## Cytowanie i licencja
 
-1. Parametr konkretnego produktu nie jest automatycznie przypisywany całej rodzinie materiałowej.
-2. Dane liczbowe są porównywane tylko wtedy, gdy metody badawcze i warunki oceny są zgodne.
-3. Brak danych nie jest zastępowany szacunkiem.
-4. Dokumentacja producenta jest traktowana jako źródło pierwotne dla deklarowanych właściwości danego produktu.
-5. Wnioski są ograniczane do zakresu dostępnych źródeł.
+Informację o cytowaniu zawiera `CITATION.cff`. Materiały udostępniono na warunkach Creative Commons Uznanie autorstwa 4.0 Międzynarodowe; zob. `LICENSE`.
 
-## Cytowanie
-
-Informacje do cytowania znajdują się w pliku `CITATION.cff`.
-
-## Licencja
-
-Projekt udostępniono na licencji CC BY 4.0.

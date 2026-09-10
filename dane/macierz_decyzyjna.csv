@@ -1,9 +1,10 @@
-﻿kryterium,PVC_P,TPO_FPO,EPDM,porownywalnosc,podstawa,zrodla,wniosek
-technologia połączeń,zgrzewanie gorącym powietrzem,zgrzewanie termiczne / gorącym powietrzem,"taśmy, primery i inne rozwiązania systemowe",wysoka jakościowo,dokumentacja systemowa,ZR-001; ZR-002; ZR-006; ZR-008; ZR-012,Różnice technologiczne są potwierdzone.
-mechaniczne mocowanie,potwierdzone,potwierdzone,potwierdzone w analizowanych systemach,wysoka jakościowo,dokumentacja producentów,ZR-002; ZR-003; ZR-005; ZR-006; ZR-009; ZR-012; ZR-013,Występuje we wszystkich trzech rodzinach.
-system klejony,występuje w wybranych systemach,występuje; także warianty samoprzylepne,występuje,wysoka jakościowo,dokumentacja producentów,ZR-006; ZR-007; ZR-010; ZR-013,"Ocena dotyczy systemu, nie samej rodziny materiałowej."
-odporność UV,potwierdzona dla wielu produktów,potwierdzona dla analizowanych produktów,wymaga oceny konkretnego produktu,średnia jakościowo,karty techniczne,ZR-001; ZR-002; ZR-003; ZR-008; ZR-009; ZR-012,Nie tworzyć rankingu bez wspólnego programu badań.
-kompatybilność z podłożami,zależna od produktu,zależna od produktu,zależna od systemu i materiałów pomocniczych,wysoka jako kryterium projektowe,instrukcje producentów,ZR-003; ZR-010; ZR-012,Cecha konkretnego układu materiałowego.
-odporność na przebicie / uderzenie,dostępne wyniki normowe dla wybranych produktów,dane zależne od produktu,dane zależne od produktu,niska bez wspólnej metody,badania produktowe,ZR-004; ZR-005; ZR-006; ZR-011,Nie przyznawać punktów bez zgodnej metody badawczej.
-stabilność wymiarowa,dostępne wyniki wg EN 1107-2,dostępne dla wybranych produktów,wymaga zgodnej metody,niska dla rankingu między rodzinami,badania produktowe,ZR-004; ZR-005; ZR-008; ZR-011,Porównywać wyłącznie konkretne produkty.
-trwałość użytkowa,dla Protan SE dostępna niezależna aprobata z określonym zakresem,brak równoważnego dokumentu w bazie,brak równoważnego dokumentu w bazie,brak porównywalności,aprobata i dokumentacja,ZR-002; ZR-013,Nie rozszerzać wyniku jednego produktu na całą rodzinę.
+kryterium,pytanie_weryfikacyjne,wymagany_dowod,status
+zgodność_zastosowania,Czy wyrób jest przeznaczony do projektowanego układu?,Aktualna deklaracja i instrukcja systemowa,do_ustalenia_dla_inwestycji
+ssanie_wiatru,Czy układ i mocowanie spełniają obliczone obciążenia?,Obliczenia oraz dane systemowe mocowań,do_ustalenia_dla_inwestycji
+ogień,Czy kompletny układ spełnia wymagania pożarowe?,Klasyfikacja dla właściwego podłoża i układu,do_ustalenia_dla_inwestycji
+kompatybilność,Czy wszystkie warstwy i środki pomocnicze są kompatybilne?,Dokumentacja producenta,do_ustalenia_dla_inwestycji
+warunki_montazu,Czy temperatura wilgotność i stan podłoża mieszczą się w wymaganiach?,Instrukcja montażu i plan robót,do_ustalenia_dla_inwestycji
+ruch_serwisowy,Czy przewidziano ochronę w strefach dojść i obsługi?,Projekt tras i warstw ochronnych,do_ustalenia_dla_inwestycji
+ekspozycja_chemiczna,Czy określono substancje stężenia i czas kontaktu?,Ocena kompatybilności producenta,do_ustalenia_dla_inwestycji
+naprawialność,Czy system ma udokumentowane procedury kontroli i napraw?,Instrukcja serwisowa,do_ustalenia_dla_inwestycji
+

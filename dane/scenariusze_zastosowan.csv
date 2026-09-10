@@ -1,4 +1,5 @@
-﻿identyfikator,typ_obiektu,klasa_powierzchni,warunki_kluczowe,kryteria_priorytetowe,rekomendowany_system,status
-SC-001,hala magazynowa,duża,duża powtarzalna połać; ograniczona liczba detali,ciągłość hydroizolacji; logistyka montażu; serwis,nie wskazano,scenariusz metodyczny
-SC-002,centrum logistyczne,duża,liczne urządzenia dachowe; ruch serwisowy,naprawialność; odporność eksploatacyjna; detale,nie wskazano,scenariusz metodyczny
-SC-003,obiekt przemysłowy,średnia lub duża,możliwe oddziaływania chemiczne lub temperaturowe,odporność chemiczna; kompatybilność; detale,nie wskazano,wymaga danych dla konkretnego obiektu
+scenariusz,warunki_do_rozpoznania,dane_wymagane,wynik
+hala_magazynowa,duża powierzchnia; strefy brzegowe; ograniczona liczba przejść,obciążenie wiatrem; podłoże; układ warstw; ogień; harmonogram,brak_rekomendacji_bez_danych_inwestycji
+centrum_logistyczne,duża powierzchnia; liczne urządzenia; częsty serwis,obciążenie wiatrem; trasy serwisowe; detale; ogień; etapowanie,brak_rekomendacji_bez_danych_inwestycji
+obiekt_przemyslowy,możliwa ekspozycja chemiczna i cieplna; liczne penetracje,substancje i stężenia; temperatury; detale; kompatybilność; serwis,brak_rekomendacji_bez_danych_inwestycji
+

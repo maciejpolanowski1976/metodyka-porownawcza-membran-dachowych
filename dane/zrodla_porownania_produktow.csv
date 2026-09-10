@@ -1,4 +1,4 @@
-﻿identyfikator,produkt,rodzina,typ_zrodla,tytul,organizacja,adres,data_dostepu,zakres_wykorzystania,uwagi
-P-001,Sarnafil S 327-12 L,PVC,karta produktu,Sarnafil S 327-12 L,Sika,https://stage-gcc.sika.com/en/construction/roofing/pvc-membranes/sarnafil-s-327-12lchce.html,2026-09-10,grubość; zbrojenie; parametry mechaniczne; EN 495-5; EN 1297; EN 1928,Szczegółowe wartości EN.
-P-002,Sure-Weld TPO Reinforced Membrane,TPO,karta produktu,Sure-Weld TPO Reinforced Membrane Product Data Sheet,Carlisle SynTec Systems,https://www.carlislesyntec.com/Document-Viewer/Sure-Weld-TPO-Reinforced-Membrane-Product-Data-Sheet/Nspdssv8T0KTm5zt1ygTOw,2026-09-10,konstrukcja; grubość; zgrzewanie; montaż; ASTM,Dane mechaniczne głównie ASTM.
-P-003,Sure-Seal EPDM 60 mil,EPDM,karta produktu,Sure-Seal EPDM Dusted Non-Reinforced Membrane Product Data Sheet,Carlisle SynTec Systems,https://www.carlislesyntec.com/Document-Viewer/sure-seal-epdm-dusted-non-reinforced-membrane-product-data-sheet-pds/Y7bsBAcoAU2vjKO0O5OK-Q,2026-09-10,rodzaj materiału; brak zbrojenia; grubość; format; montaż,Brak zgodnego zestawu EN do pełnego porównania.
+produkt,id_zrodla,zakres_wykorzystania,zastrzezenie
+Sarnafil S 327-12 L,Z01,opis konstrukcji montaż i parametry zadeklarowane,Karta regionalna; przed zastosowaniem sprawdzić aktualny dokument właściwy dla rynku inwestycji
+Carlisle Sure-Weld TPO Reinforced Membrane,Z02,opis konstrukcji montaż i parametry wariantu 60 mil,Wartości typowe nie są gwarantowaną specyfikacją każdej próbki
+Carlisle Sure-Seal EPDM SAT,Z03,opis konstrukcji montaż i parametry wariantu 60 mil,Wyrób niezbrojony samoprzylepny; nie uogólniać na całą rodzinę EPDM

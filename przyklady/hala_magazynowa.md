@@ -1,12 +1,8 @@
-# Scenariusz: hala magazynowa
+# Hala magazynowa
 
-Istotne kryteria:
-- ciągłość hydroizolacji,
-- logistyka montażu,
-- powtarzalność detali,
-- możliwość inspekcji,
-- naprawialność,
-- kompatybilność z termoizolacją,
-- odwodnienie.
+Przykład pokazuje kolejność analizy, nie wybór materiału.
 
-Nie wskazuje się z góry preferowanego materiału.
+Należy ustalić geometrię dachu, strefy obciążenia wiatrem, rodzaj podłoża, układ termoizolacji, wymagania ogniowe, liczbę przejść, odwodnienie i plan serwisu. Następnie dla każdego rozważanego systemu sprawdza się dopuszczony układ, sposób mocowania, obliczenia łączników, detale i warunki montażu.
+
+Bez tych danych wynik pozostaje `brak rekomendacji`.
+
